@@ -8,7 +8,7 @@
 <!-- ====== Hakkımda ====== -->
 <p align="center">
 I am passionate about showcasing my creativity, productivity, and art through software.  
-I am a 20-year-old Software Engineering student. Currently pursuing my bachelor's degree, I am focusing on building a solid foundation in software development, algorithms, and computer systems.  
+I am a  Software Engineering student. Currently pursuing my bachelor's degree, I am focusing on building a solid foundation in software development, algorithms, and computer systems.  
 My goal is to become a versatile software engineer who can contribute to innovative and effective solutions. I am always eager to learn, collaborate, and grow.
 </p>
 
