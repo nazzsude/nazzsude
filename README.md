@@ -16,21 +16,12 @@ My goal is to become a versatile software engineer who can contribute to innovat
 <!-- ====== Öğrenmekte Olduklarım ====== -->
 ## 🛠 Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
----
-
-<!-- ====== Teknoloji ve İlgi Alanları ====== -->
-## 💻 Technologies & Interests
-<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
+</p>  
 
 ---
-
 
 <!-- ====== GitHub İstatistikleri ====== -->
 ## 📊 GitHub Stats
