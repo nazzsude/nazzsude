@@ -1,7 +1,8 @@
 <!-- ====== Başlangıç ====== -->
   ## *Hello! I’m Naz 👋*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+meet!" />
 </p>
-
 ---
 
 <!-- ====== Hakkımda ====== -->
